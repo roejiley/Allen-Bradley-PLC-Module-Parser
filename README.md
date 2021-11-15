@@ -10,7 +10,7 @@ This script will analyze an *.L5X file and output an *.CSV file documenting firm
 	4a. Program may take 15-20 seconds to run for extensive amount of files.
 5. A file explorer will pop up, prompting you to save the file.
 	5a. Locate a folder where you would like to save the file, ensure to give it a file name.
-	5b. The VFD Scraper tool only allows files to be saved in the .CSV format, and the title defaults to "VFD_Firmware.csv".
+	5b. The VFD Scraper tool only allows files to be saved in the .CSV format, and the title defaults to "PLC_Modules.csv".
 6. You are done.
 
 
